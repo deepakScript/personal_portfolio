@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.padded-container{
+    @apply lg:px-50 lg:py-30 md:px-10 sm:px-5 px-2;
+}
